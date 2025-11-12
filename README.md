@@ -1,7 +1,7 @@
 # WORKSHOP - 5: License Plate Detection using OpenCV and Haar Cascade Classifier
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
-<H3>Date: 10.11.2025 </H3>
+<H3>Name: S.HARIKA</H3>
+<H3>Register no: 212224240155</H3>
+<H3>Date: 12.11.2025 </H3>
 
 # AIM:
 To perform Gray scale Morphology Real Time Bone Fracture Detection.
